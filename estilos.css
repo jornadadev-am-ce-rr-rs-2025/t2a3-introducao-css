@@ -1,0 +1,43 @@
+body {
+    color: #E1E1E6;
+    background-color: #121214;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h3 {
+    color: #8D8D99;
+}
+/* HEADER */
+header {
+    box-sizing: border-box;
+    width: 100%; /* largura => unidade relativa % */
+    padding: 20px;
+    background-color: #202024;
+    margin-bottom: 92px;
+}
+
+#logotipo {
+    display: block;
+    margin: 0 auto;
+}
+
+/* fim HEADER  */
+
+/* CONTEUDO */
+.container {
+   width: 1120px;
+   background-color: #202024;
+   margin: 0 auto;
+   padding: 24px 64px;
+   text-align: center;
+}
+
+#foto-perfil {
+    border: 2px solid #EA488F;
+    padding: 16px;
+}
